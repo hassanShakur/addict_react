@@ -9,7 +9,8 @@ const ErrorExample = () => {
 
   return (
     <React.Fragment>
-      <h2>useState error example</h2>;<h3>{title}</h3>
+      <h2>useState error example</h2>
+      <h3>{title}</h3>
       <button className='btn' onClick={handleClick}>
         Change title
       </button>
