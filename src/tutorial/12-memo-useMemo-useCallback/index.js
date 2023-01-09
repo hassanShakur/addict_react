@@ -1,6 +1,8 @@
 import React, { useState, useCallback, useMemo } from 'react'
 import { useFetch } from '../../9-custom-hooks/final/2-useFetch'
 
+// useCallback kent
+
 // ATTENTION!!!!!!!!!!
 // I SWITCHED TO PERMANENT DOMAIN
 const url = 'https://course-api.com/javascript-store-products'
